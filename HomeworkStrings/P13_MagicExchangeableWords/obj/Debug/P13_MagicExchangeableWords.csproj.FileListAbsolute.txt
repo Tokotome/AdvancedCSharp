@@ -1,0 +1,2 @@
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P13_MagicExchangeableWords\bin\Debug\P13_MagicExchangeableWords.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P13_MagicExchangeableWords\bin\Debug\P13_MagicExchangeableWords.exe.config

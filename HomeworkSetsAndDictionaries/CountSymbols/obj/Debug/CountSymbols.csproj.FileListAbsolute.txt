@@ -1,0 +1,4 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.pdb

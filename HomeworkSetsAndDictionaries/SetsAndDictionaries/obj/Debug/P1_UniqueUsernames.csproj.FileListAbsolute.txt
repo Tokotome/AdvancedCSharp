@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\SetsAndDictionaries.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\SetsAndDictionaries.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\SetsAndDictionaries.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\P1_UniqueUsernames.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.pdb
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\SetsAndDictionaries.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\SetsAndDictionaries\bin\Debug\SetsAndDictionaries.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\SetsAndDictionaries\obj\Debug\SetsAndDictionaries.pdb

@@ -1,0 +1,11 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.pdb
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.pdb

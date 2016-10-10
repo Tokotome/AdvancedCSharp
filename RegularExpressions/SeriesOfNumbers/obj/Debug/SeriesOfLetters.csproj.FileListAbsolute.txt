@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\bin\Debug\SeriesOfNumbers.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\bin\Debug\SeriesOfNumbers.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\bin\Debug\SeriesOfNumbers.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\obj\Debug\SeriesOfNumbers.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SeriesOfNumbers\obj\Debug\SeriesOfNumbers.pdb
+C:\Users\SM\Desktop\Lab\RegularExpressions\SeriesOfNumbers\bin\Debug\SeriesOfNumbers.exe.config
+C:\Users\SM\Desktop\Lab\RegularExpressions\SeriesOfNumbers\obj\Debug\SeriesOfNumbers.exe
+C:\Users\SM\Desktop\Lab\RegularExpressions\SeriesOfNumbers\obj\Debug\SeriesOfNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\bin\Debug\P10_UnicodeCharacters.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\bin\Debug\P10_UnicodeCharacters.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\bin\Debug\P10_UnicodeCharacters.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.pdb
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\bin\Debug\P10_UnicodeCharacters.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.exe
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.pdb

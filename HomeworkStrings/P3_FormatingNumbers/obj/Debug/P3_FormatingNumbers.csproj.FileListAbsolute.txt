@@ -1,0 +1,1 @@
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P3_FormatingNumbers\bin\Debug\P3_FormatingNumbers.exe.config

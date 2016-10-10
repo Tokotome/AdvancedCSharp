@@ -1,0 +1,9 @@
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.exe.config
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.exe
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.pdb
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\obj\Debug\ReverseNumbers.csprojResolveAssemblyReference.cache
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.exe
+c:\users\sm\documents\visual studio 2015\Projects\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.pdb
+C:\Users\SM\Desktop\Lab\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.exe.config
+C:\Users\SM\Desktop\Lab\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.exe
+C:\Users\SM\Desktop\Lab\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.pdb

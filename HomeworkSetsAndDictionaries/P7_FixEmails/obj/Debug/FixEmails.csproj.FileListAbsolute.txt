@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.pdb

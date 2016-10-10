@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.exe
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.pdb

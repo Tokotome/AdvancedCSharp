@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\obj\Debug\P09_TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.pdb
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.exe
+C:\Users\SM\Desktop\Lab\Strings\P9_TextFilter\obj\Debug\P9_TextFilter.pdb

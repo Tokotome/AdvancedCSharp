@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\bin\Debug\P10_Palindromes.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\bin\Debug\P10_Palindromes.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\bin\Debug\P10_Palindromes.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\obj\Debug\P11_Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.pdb
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\bin\Debug\P10_Palindromes.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.exe
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.pdb

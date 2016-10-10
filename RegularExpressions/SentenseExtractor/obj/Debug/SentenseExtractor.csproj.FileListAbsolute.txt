@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\bin\Debug\SentenseExtractor.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\bin\Debug\SentenseExtractor.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\bin\Debug\SentenseExtractor.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\obj\Debug\SentenseExtractor.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\obj\Debug\SentenseExtractor.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\SentenseExtractor\obj\Debug\SentenseExtractor.pdb
+C:\Users\SM\Desktop\Lab\RegularExpressions\SentenseExtractor\bin\Debug\SentenseExtractor.exe.config
+C:\Users\SM\Desktop\Lab\RegularExpressions\SentenseExtractor\obj\Debug\SentenseExtractor.exe
+C:\Users\SM\Desktop\Lab\RegularExpressions\SentenseExtractor\obj\Debug\SentenseExtractor.pdb

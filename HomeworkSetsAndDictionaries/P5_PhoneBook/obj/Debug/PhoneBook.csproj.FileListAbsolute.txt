@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.pdb

@@ -1,0 +1,9 @@
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\bin\Debug\P14_LettersChangeNumbers.exe.config
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\bin\Debug\P14_LettersChangeNumbers.exe
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\bin\Debug\P14_LettersChangeNumbers.pdb
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\obj\Debug\P14_LettersChangeNumbers.csprojResolveAssemblyReference.cache
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\obj\Debug\P14_LettersChangeNumbers.exe
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P14_LettersChangeNumbers\obj\Debug\P14_LettersChangeNumbers.pdb
+C:\Users\SM\Desktop\Lab\Strings\P14_LettersChangeNumbers\bin\Debug\P14_LettersChangeNumbers.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P14_LettersChangeNumbers\obj\Debug\P14_LettersChangeNumbers.exe
+C:\Users\SM\Desktop\Lab\Strings\P14_LettersChangeNumbers\obj\Debug\P14_LettersChangeNumbers.pdb

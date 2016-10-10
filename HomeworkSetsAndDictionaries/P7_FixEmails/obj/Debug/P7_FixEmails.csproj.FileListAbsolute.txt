@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.pdb
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\bin\Debug\P7_FixEmails.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P7_FixEmails\obj\Debug\P7_FixEmails.pdb

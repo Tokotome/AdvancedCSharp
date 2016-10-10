@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\bin\Debug\Demo text filter.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\bin\Debug\Demo text filter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\bin\Debug\Demo text filter.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\obj\Debug\Demo text filter.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\obj\Debug\Demo text filter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\Strings\Demo text filter\obj\Debug\Demo text filter.pdb
+C:\Users\SM\Desktop\Lab\Strings\Demo text filter\bin\Debug\Demo text filter.exe.config
+C:\Users\SM\Desktop\Lab\Strings\Demo text filter\obj\Debug\Demo text filter.exe
+C:\Users\SM\Desktop\Lab\Strings\Demo text filter\obj\Debug\Demo text filter.pdb

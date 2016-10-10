@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\bin\Debug\QueuesDemo.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\bin\Debug\QueuesDemo.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\bin\Debug\QueuesDemo.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\obj\Debug\QueuesDemo.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\obj\Debug\QueuesDemo.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\QueuesDemo\obj\Debug\QueuesDemo.pdb
+C:\Users\SM\Desktop\Lab\StacksAndQueues\QueuesDemo\bin\Debug\QueuesDemo.exe.config
+C:\Users\SM\Desktop\Lab\StacksAndQueues\QueuesDemo\obj\Debug\QueuesDemo.exe
+C:\Users\SM\Desktop\Lab\StacksAndQueues\QueuesDemo\obj\Debug\QueuesDemo.pdb

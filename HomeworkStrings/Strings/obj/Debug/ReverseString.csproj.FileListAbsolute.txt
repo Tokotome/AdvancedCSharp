@@ -1,0 +1,6 @@
+C:\Users\SM\Desktop\Lab\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\SM\Desktop\Lab\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\SM\Desktop\Lab\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkStrings\Strings\bin\Debug\Strings.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkStrings\Strings\obj\Debug\Strings.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkStrings\Strings\obj\Debug\Strings.pdb

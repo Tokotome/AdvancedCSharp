@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.pdb

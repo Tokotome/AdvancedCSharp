@@ -1,0 +1,2 @@
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\QuerryMess1\bin\Debug\QuerryMess1.exe.config
+C:\Users\SM\Desktop\Lab\RegularExpressions\QuerryMess1\bin\Debug\QuerryMess1.exe.config

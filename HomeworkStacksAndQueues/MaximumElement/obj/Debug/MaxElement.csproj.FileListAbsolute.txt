@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe.config
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.exe
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.pdb

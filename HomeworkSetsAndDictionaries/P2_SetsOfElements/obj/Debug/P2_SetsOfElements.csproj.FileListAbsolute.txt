@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.pdb
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\bin\Debug\P2_SetsOfElements.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P2_SetsOfElements\obj\Debug\P2_SetsOfElements.pdb

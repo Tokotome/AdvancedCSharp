@@ -1,0 +1,6 @@
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\bin\Debug\P6_CountSubstringOccurrences.exe.config
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\bin\Debug\P6_CountSubstringOccurrences.exe
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\bin\Debug\P6_CountSubstringOccurrences.pdb
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\obj\Debug\P6_CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\obj\Debug\P6_CountSubstringOccurrences.exe
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P6_CountSubstringOccurrences\obj\Debug\P6_CountSubstringOccurrences.pdb

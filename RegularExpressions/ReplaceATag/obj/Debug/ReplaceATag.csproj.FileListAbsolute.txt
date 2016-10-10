@@ -1,0 +1,9 @@
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.pdb
+C:\Users\SM\Desktop\Lab\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+C:\Users\SM\Desktop\Lab\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.exe
+C:\Users\SM\Desktop\Lab\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.pdb

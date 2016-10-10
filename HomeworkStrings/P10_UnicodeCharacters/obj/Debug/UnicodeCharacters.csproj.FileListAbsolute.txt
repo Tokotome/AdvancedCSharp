@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\bin\Debug\P10_UnicodeCharacters.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.exe
+C:\Users\SM\Desktop\Lab\Strings\P10_UnicodeCharacters\obj\Debug\P10_UnicodeCharacters.pdb

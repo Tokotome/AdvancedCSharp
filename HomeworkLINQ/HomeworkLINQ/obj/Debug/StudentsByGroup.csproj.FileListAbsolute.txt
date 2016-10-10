@@ -1,0 +1,2 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\HomeworkLINQ\HomeworkLINQ\bin\Debug\HomeworkLINQ.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkLINQ\HomeworkLINQ\bin\Debug\HomeworkLINQ.exe.config

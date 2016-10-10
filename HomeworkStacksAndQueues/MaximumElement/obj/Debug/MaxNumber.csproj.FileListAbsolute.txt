@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.pdb
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe.config
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.exe
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.pdb
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.pdb
+C:\Users\SM\Desktop\Lab\StacksAndQueues\MaximumElement\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache

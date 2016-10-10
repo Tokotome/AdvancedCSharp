@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.pdb
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\bin\Debug\P5_PhoneBook.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P5_PhoneBook\obj\Debug\P5_PhoneBook.pdb

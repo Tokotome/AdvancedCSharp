@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\bin\Debug\P10_Palindromes.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.exe
+C:\Users\SM\Desktop\Lab\Strings\P10_Palindromes\obj\Debug\P10_Palindromes.pdb

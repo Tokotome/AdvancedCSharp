@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\bin\Debug\P3_PeriodicTable.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\P3_PeriodicTable\obj\Debug\P3_PeriodicTable.pdb

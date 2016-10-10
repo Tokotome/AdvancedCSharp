@@ -1,0 +1,1 @@
+c:\Users\SM\documents\visual studio 2015\Projects\Strings\P9_TextFilter\bin\Debug\P9_TextFilter.exe.config

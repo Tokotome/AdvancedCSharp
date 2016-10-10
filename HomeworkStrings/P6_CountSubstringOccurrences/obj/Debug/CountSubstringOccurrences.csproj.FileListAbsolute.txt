@@ -1,0 +1,3 @@
+C:\Users\SM\Desktop\Lab\Strings\P6_CountSubstringOccurrences\bin\Debug\P6_CountSubstringOccurrences.exe.config
+C:\Users\SM\Desktop\Lab\Strings\P6_CountSubstringOccurrences\obj\Debug\P6_CountSubstringOccurrences.exe
+C:\Users\SM\Desktop\Lab\Strings\P6_CountSubstringOccurrences\obj\Debug\P6_CountSubstringOccurrences.pdb

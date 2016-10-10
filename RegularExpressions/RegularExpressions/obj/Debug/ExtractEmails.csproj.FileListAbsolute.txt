@@ -1,0 +1,11 @@
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\SM\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+C:\Users\SM\Desktop\Lab\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\SM\Desktop\Lab\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\SM\Desktop\Lab\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\SM\Desktop\CSharpAdvanced\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb

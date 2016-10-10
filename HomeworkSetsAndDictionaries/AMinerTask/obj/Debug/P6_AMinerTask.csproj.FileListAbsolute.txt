@@ -1,0 +1,12 @@
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\bin\Debug\AMinerTask.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\bin\Debug\AMinerTask.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\bin\Debug\AMinerTask.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.exe
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\SetsAndDictionaries\AMinerTask\obj\Debug\P6_AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\AMinerTask\bin\Debug\AMinerTask.exe.config
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.exe
+C:\Users\SM\Desktop\Lab\SetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.pdb
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\AMinerTask\bin\Debug\AMinerTask.exe.config
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.exe
+C:\Users\SM\Desktop\CSharpAdvanced\HomeworkSetsAndDictionaries\AMinerTask\obj\Debug\AMinerTask.pdb
